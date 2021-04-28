@@ -5,31 +5,31 @@
 
 # Hosted server URL:  https://pothunter-server-by-everyone.herokuapp.com/
 
-# //ismaila
+# ismaila
 1. https://pothunter-server-by-everyone.herokuapp.com/api/abouts
 2. https://pothunter-server-by-everyone.herokuapp.com/api/templates
 3. https://pothunter-server-by-everyone.herokuapp.com/api/User
 
 
-// shelcy
+# shelcy
 1. https://pothunter-server-by-everyone.herokuapp.com/api/forms 
 2. https://pothunter-server-by-everyone.herokuapp.com/api/words
 3. https://pothunter-server-by-everyone.herokuapp.com/api/jobs
 
-//mary  
+# mary  
 1. https://pothunter-server-by-everyone.herokuapp.com/api/mentors
 2. https://pothunter-server-by-everyone.herokuapp.com/api/mentorsbio
 3. https://pothunter-server-by-everyone.herokuapp.com/api/qa
 4. https://pothunter-server-by-everyone.herokuapp.com/api/menteesQuestion
 
 
-//loveleen
+# loveleen
 1. https://pothunter-server-by-everyone.herokuapp.com/api/downloadtemplates   
 2. https://pothunter-server-by-everyone.herokuapp.com/api/faqs 
 3. https://pothunter-server-by-everyone.herokuapp.com/api/toolkit
 
 
-// Soumitra 
+# Soumitra 
 1. https://pothunter-server-by-everyone.herokuapp.com/api/story
 
 
