@@ -1,5 +1,10 @@
 # Project - PotHunter
 # Team - COSMOS
+
+# Hosted client URL: https://pothunter-client-by-everyone.herokuapp.com/
+
+# Hosted server URL:  https://pothunter-server-by-everyone.herokuapp.com/
+
 # Members - Ismaila (Team Lead)
 #         - Soumitra Bain
 #         - Mary Erhabor
