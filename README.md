@@ -1,5 +1,6 @@
 # Project - PotHunter
 # Team - COSMOS
+# (Team Lead) - Ismaila 
 
 # Hosted client URL: https://pothunter-client-by-everyone.herokuapp.com/
 
